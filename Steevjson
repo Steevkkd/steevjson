@@ -1,0 +1,70 @@
+  [
+    {
+        "rollno": "001",    
+        "name": "Arun",
+        "designatioon":"web deseign",
+		"address": {
+		"dno": "2968",
+		"area": "T-nagar",
+		"city": "chennai",
+		"team":["jhon","Anna","peter"]
+		}
+    },
+    {
+        
+		"rollno": "002",    
+        "name": "kumar",
+        "designatioon":"web developer",
+		"address": {
+		"dno": "#3",
+		"area": "Anna nagar",
+		"city": "Madurai",
+		"team":["parakaran","raja","peter"]
+		}
+    },
+    {
+     "rollno": "003",    
+        "name": "Ravi",
+        "designatioon":"Graphic Design",
+		"address": {
+		"dno": "#31",
+		"area": "Avadi",
+		"city": "Chennai",
+		"team":["parakaran","raja","peter"]
+		}
+    },
+    {
+       "rollno": "004",    
+        "name": "M.Sundar",
+        "designatioon":"Graphic Design",
+		"address": {
+		"dno": "#31",
+		"area": "Vairavapuram",
+		"city": "Karaikudi",
+		"team":["parakaran","raja","peter"]
+		}
+    },
+    {
+        "rollno": "005",    
+        "name": "K.Sundar",
+        "designatioon":"Graphic Design",
+		"address": {
+		"dno": "562",
+		"area": "Boys Twon",
+		"city": "Madurai",
+		"team":["parakaran","raja","peter"]
+		}
+    },    
+    {
+          "rollno": "006",    
+        "name": "Raju",
+        "designatioon":"Graphic Design",
+		"address": {
+		"dno": "968",
+		"area": "T.nagar",
+		"city": "Chennai",
+		"team":["parakaran","raja","peter"]
+		}
+    }
+	
+]
